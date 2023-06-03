@@ -1,0 +1,8 @@
+{
+  "name": "MindustrAI",
+  "displayName": "MindustrAI",
+  "author": "Der_DennisOP",
+  "description": "AI wrapper for MindustrAI.",
+  "main": "mindustrai.MindustrAI",
+  "version": 1.0
+}

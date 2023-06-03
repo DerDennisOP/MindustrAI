@@ -1,0 +1,451 @@
+[06-03-2023 13:05:11] [I] Server loaded. Type 'help' for help.
+[06-03-2023 13:05:13] [E] Too few command arguments. Usage: mod <name...>
+[06-03-2023 13:05:15] [E] Invalid command. Type 'help' for help.
+[06-03-2023 13:05:17] [I] No mods found.
+[06-03-2023 13:05:17] [I] Mod directory: /home/dennis/repos/MindustrAI/config/mods
+[06-03-2023 13:06:55] [I] No mods found.
+[06-03-2023 13:06:55] [I] Mod directory: /home/dennis/repos/MindustrAI/config/mods
+[06-03-2023 13:07:03] [I] No mods found.
+[06-03-2023 13:07:03] [I] Mod directory: /home/dennis/repos/MindustrAI/config/mods
+[06-03-2023 13:07:06] [E] Command not found. Did you mean "load"?
+[06-03-2023 13:07:08] [E] Too few command arguments. Usage: load <slot>
+[06-03-2023 13:07:13] [I] 1 mods loaded.
+[06-03-2023 13:07:13] [I] Server loaded. Type 'help' for help.
+[06-03-2023 13:07:16] [I] Mods:
+[06-03-2023 13:07:16] [I]   MindustrAI 1.0 
+[06-03-2023 13:07:16] [I] Mod directory: /home/dennis/repos/MindustrAI/config/mods
+[06-03-2023 13:07:23] [I] Randomized next map to be Ancient Caldera.
+[06-03-2023 13:07:23] [I] Loading map...
+[06-03-2023 13:07:23] [I] Map loaded.
+[06-03-2023 13:07:23] [I] Opened a server on port 6567.
+[06-03-2023 13:07:53] [I] Der_DennisOP has connected. [HmXjG7sgtK4AAAAAEYQ6pQ==]
+[06-03-2023 13:08:10] [I] Der_DennisOP: heck
+[06-03-2023 13:08:16] [I] <Der_DennisOP: /help>
+[06-03-2023 13:08:35] [I] Kicking connection 192.168.0.26 / AAAAAAAA; Reason: [accent]Incompatible mods![]  Missing:[lightgray] > mindustrai:1.0[] 
+[06-03-2023 13:08:39] [E] Command not found. Did you mean "mod"?
+[06-03-2023 13:09:20] [I] Server loaded. Type 'help' for help.
+[06-03-2023 13:09:24] [I] Commands:
+[06-03-2023 13:09:24] [I]    help [command] - Display the command list, or get help for a specific command.
+[06-03-2023 13:09:24] [I]    version - Displays server version info.
+[06-03-2023 13:09:24] [I]    exit - Exit the server application.
+[06-03-2023 13:09:24] [I]    stop - Stop hosting the server.
+[06-03-2023 13:09:24] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[06-03-2023 13:09:24] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[06-03-2023 13:09:24] [I]    reloadmaps - Reload all maps from disk.
+[06-03-2023 13:09:24] [I]    status - Display server status.
+[06-03-2023 13:09:24] [I]    mods - Display all loaded mods.
+[06-03-2023 13:09:24] [I]    mod <name...> - Display information about a loaded plugin.
+[06-03-2023 13:09:24] [I]    js <script...> - Run arbitrary Javascript.
+[06-03-2023 13:09:24] [I]    say <message...> - Send a message to all players.
+[06-03-2023 13:09:24] [I]    pause <on/off> - Pause or unpause the game.
+[06-03-2023 13:09:24] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[06-03-2023 13:09:24] [I]    fillitems [team] - Fill the core with items.
+[06-03-2023 13:09:24] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[06-03-2023 13:09:24] [I]    config [name] [value...] - Configure server settings.
+[06-03-2023 13:09:24] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[06-03-2023 13:09:24] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[06-03-2023 13:09:24] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[06-03-2023 13:09:24] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[06-03-2023 13:09:24] [I]    kick <username...> - Kick a person by name.
+[06-03-2023 13:09:24] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[06-03-2023 13:09:24] [I]    bans - List all banned IPs and IDs.
+[06-03-2023 13:09:24] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[06-03-2023 13:09:24] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[06-03-2023 13:09:24] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[06-03-2023 13:09:24] [I]    admins - List all admins.
+[06-03-2023 13:09:24] [I]    players - List all players currently in game.
+[06-03-2023 13:09:24] [I]    runwave - Trigger the next wave.
+[06-03-2023 13:09:24] [I]    load <slot> - Load a save from a slot.
+[06-03-2023 13:09:24] [I]    save <slot> - Save game state to a slot.
+[06-03-2023 13:09:24] [I]    saves - List all saves in the save directory.
+[06-03-2023 13:09:24] [I]    gameover - Force a game over.
+[06-03-2023 13:09:24] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[06-03-2023 13:09:24] [I]    search <name...> - Search players who have used part of a name.
+[06-03-2023 13:09:24] [I]    gc - Trigger a garbage collection. Testing only.
+[06-03-2023 13:09:24] [I]    yes - Run the last suggested incorrect command.
+[06-03-2023 13:10:13] [E] Invalid command. Type 'help' for help.
+[06-03-2023 13:10:18] [E] Invalid command. Type 'help' for help.
+[06-03-2023 13:16:10] [I] 1 mods loaded.
+[06-03-2023 13:16:10] [I] Server loaded. Type 'help' for help.
+[06-03-2023 13:16:14] [I] Commands:
+[06-03-2023 13:16:14] [I]    help [command] - Display the command list, or get help for a specific command.
+[06-03-2023 13:16:14] [I]    version - Displays server version info.
+[06-03-2023 13:16:14] [I]    exit - Exit the server application.
+[06-03-2023 13:16:14] [I]    stop - Stop hosting the server.
+[06-03-2023 13:16:14] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[06-03-2023 13:16:14] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[06-03-2023 13:16:14] [I]    reloadmaps - Reload all maps from disk.
+[06-03-2023 13:16:14] [I]    status - Display server status.
+[06-03-2023 13:16:14] [I]    mods - Display all loaded mods.
+[06-03-2023 13:16:14] [I]    mod <name...> - Display information about a loaded plugin.
+[06-03-2023 13:16:14] [I]    js <script...> - Run arbitrary Javascript.
+[06-03-2023 13:16:14] [I]    say <message...> - Send a message to all players.
+[06-03-2023 13:16:14] [I]    pause <on/off> - Pause or unpause the game.
+[06-03-2023 13:16:14] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[06-03-2023 13:16:14] [I]    fillitems [team] - Fill the core with items.
+[06-03-2023 13:16:14] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[06-03-2023 13:16:14] [I]    config [name] [value...] - Configure server settings.
+[06-03-2023 13:16:14] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[06-03-2023 13:16:14] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[06-03-2023 13:16:14] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[06-03-2023 13:16:14] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[06-03-2023 13:16:14] [I]    kick <username...> - Kick a person by name.
+[06-03-2023 13:16:14] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[06-03-2023 13:16:14] [I]    bans - List all banned IPs and IDs.
+[06-03-2023 13:16:14] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[06-03-2023 13:16:14] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[06-03-2023 13:16:14] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[06-03-2023 13:16:14] [I]    admins - List all admins.
+[06-03-2023 13:16:14] [I]    players - List all players currently in game.
+[06-03-2023 13:16:14] [I]    runwave - Trigger the next wave.
+[06-03-2023 13:16:14] [I]    load <slot> - Load a save from a slot.
+[06-03-2023 13:16:14] [I]    save <slot> - Save game state to a slot.
+[06-03-2023 13:16:14] [I]    saves - List all saves in the save directory.
+[06-03-2023 13:16:14] [I]    gameover - Force a game over.
+[06-03-2023 13:16:14] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[06-03-2023 13:16:14] [I]    search <name...> - Search players who have used part of a name.
+[06-03-2023 13:16:14] [I]    gc - Trigger a garbage collection. Testing only.
+[06-03-2023 13:16:14] [I]    yes - Run the last suggested incorrect command.
+[06-03-2023 13:16:46] [I] Mods:
+[06-03-2023 13:16:46] [I]   MindustrAI 1.0 
+[06-03-2023 13:16:46] [I] Mod directory: /home/dennis/repos/MindustrAI/config/mods
+[06-03-2023 13:17:24] [I] Randomized next map to be Maze.
+[06-03-2023 13:17:24] [I] Loading map...
+[06-03-2023 13:17:24] [I] Map loaded.
+[06-03-2023 13:17:24] [I] Opened a server on port 6567.
+[06-03-2023 13:17:28] [I] Kicking connection 192.168.0.31 / AAAAAAAA; Reason: [accent]Incompatible mods![]  Missing:[lightgray] > mindustrai:1.0[] 
+[06-03-2023 13:19:21] [I] 1 mods loaded.
+[06-03-2023 13:19:21] [I] Server loaded. Type 'help' for help.
+[06-03-2023 13:19:25] [I] Commands:
+[06-03-2023 13:19:25] [I]    help [command] - Display the command list, or get help for a specific command.
+[06-03-2023 13:19:25] [I]    version - Displays server version info.
+[06-03-2023 13:19:25] [I]    exit - Exit the server application.
+[06-03-2023 13:19:25] [I]    stop - Stop hosting the server.
+[06-03-2023 13:19:25] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[06-03-2023 13:19:25] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[06-03-2023 13:19:25] [I]    reloadmaps - Reload all maps from disk.
+[06-03-2023 13:19:25] [I]    status - Display server status.
+[06-03-2023 13:19:25] [I]    mods - Display all loaded mods.
+[06-03-2023 13:19:25] [I]    mod <name...> - Display information about a loaded plugin.
+[06-03-2023 13:19:25] [I]    js <script...> - Run arbitrary Javascript.
+[06-03-2023 13:19:25] [I]    say <message...> - Send a message to all players.
+[06-03-2023 13:19:25] [I]    pause <on/off> - Pause or unpause the game.
+[06-03-2023 13:19:25] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[06-03-2023 13:19:25] [I]    fillitems [team] - Fill the core with items.
+[06-03-2023 13:19:25] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[06-03-2023 13:19:25] [I]    config [name] [value...] - Configure server settings.
+[06-03-2023 13:19:25] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[06-03-2023 13:19:25] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[06-03-2023 13:19:25] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[06-03-2023 13:19:25] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[06-03-2023 13:19:25] [I]    kick <username...> - Kick a person by name.
+[06-03-2023 13:19:25] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[06-03-2023 13:19:25] [I]    bans - List all banned IPs and IDs.
+[06-03-2023 13:19:25] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[06-03-2023 13:19:25] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[06-03-2023 13:19:25] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[06-03-2023 13:19:25] [I]    admins - List all admins.
+[06-03-2023 13:19:25] [I]    players - List all players currently in game.
+[06-03-2023 13:19:25] [I]    runwave - Trigger the next wave.
+[06-03-2023 13:19:25] [I]    load <slot> - Load a save from a slot.
+[06-03-2023 13:19:25] [I]    save <slot> - Save game state to a slot.
+[06-03-2023 13:19:25] [I]    saves - List all saves in the save directory.
+[06-03-2023 13:19:25] [I]    gameover - Force a game over.
+[06-03-2023 13:19:25] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[06-03-2023 13:19:25] [I]    search <name...> - Search players who have used part of a name.
+[06-03-2023 13:19:25] [I]    gc - Trigger a garbage collection. Testing only.
+[06-03-2023 13:19:25] [I]    yes - Run the last suggested incorrect command.
+[06-03-2023 13:19:27] [I] Randomized next map to be Ancient Caldera.
+[06-03-2023 13:19:27] [I] Loading map...
+[06-03-2023 13:19:27] [I] Map loaded.
+[06-03-2023 13:19:27] [I] Opened a server on port 6567.
+[06-03-2023 13:19:34] [I] Kicking connection 192.168.0.31 / AAAAAAAA; Reason: [accent]Incompatible mods![]  Missing:[lightgray] > mindustrai:1[] 
+[06-03-2023 13:19:40] [I] Kicking connection 192.168.0.31 / AAAAAAAA; Reason: [accent]Incompatible mods![]  Missing:[lightgray] > mindustrai:1[] 
+[06-03-2023 13:24:47] [I] Game over! Reached wave 2 with 0 players online on map Ancient Caldera.
+[06-03-2023 13:24:47] [I] Selected next map to be Domain.
+[06-03-2023 13:26:40] [I] Server loaded. Type 'help' for help.
+[06-03-2023 13:26:45] [I] Commands:
+[06-03-2023 13:26:45] [I]    help [command] - Display the command list, or get help for a specific command.
+[06-03-2023 13:26:45] [I]    version - Displays server version info.
+[06-03-2023 13:26:45] [I]    exit - Exit the server application.
+[06-03-2023 13:26:45] [I]    stop - Stop hosting the server.
+[06-03-2023 13:26:45] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[06-03-2023 13:26:45] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[06-03-2023 13:26:45] [I]    reloadmaps - Reload all maps from disk.
+[06-03-2023 13:26:45] [I]    status - Display server status.
+[06-03-2023 13:26:45] [I]    mods - Display all loaded mods.
+[06-03-2023 13:26:45] [I]    mod <name...> - Display information about a loaded plugin.
+[06-03-2023 13:26:45] [I]    js <script...> - Run arbitrary Javascript.
+[06-03-2023 13:26:45] [I]    say <message...> - Send a message to all players.
+[06-03-2023 13:26:45] [I]    pause <on/off> - Pause or unpause the game.
+[06-03-2023 13:26:45] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[06-03-2023 13:26:45] [I]    fillitems [team] - Fill the core with items.
+[06-03-2023 13:26:45] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[06-03-2023 13:26:45] [I]    config [name] [value...] - Configure server settings.
+[06-03-2023 13:26:45] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[06-03-2023 13:26:45] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[06-03-2023 13:26:45] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[06-03-2023 13:26:45] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[06-03-2023 13:26:45] [I]    kick <username...> - Kick a person by name.
+[06-03-2023 13:26:45] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[06-03-2023 13:26:45] [I]    bans - List all banned IPs and IDs.
+[06-03-2023 13:26:45] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[06-03-2023 13:26:45] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[06-03-2023 13:26:45] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[06-03-2023 13:26:45] [I]    admins - List all admins.
+[06-03-2023 13:26:45] [I]    players - List all players currently in game.
+[06-03-2023 13:26:45] [I]    runwave - Trigger the next wave.
+[06-03-2023 13:26:45] [I]    load <slot> - Load a save from a slot.
+[06-03-2023 13:26:45] [I]    save <slot> - Save game state to a slot.
+[06-03-2023 13:26:45] [I]    saves - List all saves in the save directory.
+[06-03-2023 13:26:45] [I]    gameover - Force a game over.
+[06-03-2023 13:26:45] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[06-03-2023 13:26:45] [I]    search <name...> - Search players who have used part of a name.
+[06-03-2023 13:26:45] [I]    gc - Trigger a garbage collection. Testing only.
+[06-03-2023 13:26:45] [I]    yes - Run the last suggested incorrect command.
+[06-03-2023 13:26:46] [I] No mods found.
+[06-03-2023 13:26:46] [I] Mod directory: /home/dennis/repos/MindustrAI/config/mods
+[06-03-2023 13:27:07] [I] Server loaded. Type 'help' for help.
+[06-03-2023 13:27:10] [I] No mods found.
+[06-03-2023 13:27:10] [I] Mod directory: /home/dennis/repos/MindustrAI/config/mods
+[06-03-2023 16:54:29] [I] Server loaded. Type 'help' for help.
+[06-03-2023 16:54:32] [I] No mods found.
+[06-03-2023 16:54:32] [I] Mod directory: /home/dennis/repos/MindustrAI/config/mods
+[06-03-2023 16:55:09] [I] 1 mods loaded.
+[06-03-2023 16:55:09] [I] Server loaded. Type 'help' for help.
+[06-03-2023 16:55:11] [I] Mods:
+[06-03-2023 16:55:11] [I]   MindustrAI 1 
+[06-03-2023 16:55:11] [I] Mod directory: /home/dennis/repos/MindustrAI/config/mods
+[06-03-2023 16:55:15] [E] Too few command arguments. Usage: mod <name...>
+[06-03-2023 16:55:25] [I] Name: MindustrAI
+[06-03-2023 16:55:25] [I] Internal Name: mindustrai
+[06-03-2023 16:55:25] [I] Version: 1
+[06-03-2023 16:55:25] [I] Author: Der_DennisOP
+[06-03-2023 16:55:25] [I] Path: config/mods/mindustrai.jar
+[06-03-2023 16:55:25] [I] Description: AI wrapper for MindustrAI.
+[06-03-2023 16:55:33] [I] Randomized next map to be Fork.
+[06-03-2023 16:55:33] [I] Loading map...
+[06-03-2023 16:55:33] [I] Map loaded.
+[06-03-2023 16:55:33] [I] Opened a server on port 6567.
+[06-03-2023 16:55:42] [I] Der_DennisOP has connected. [HmXjG7sgtK4AAAAAEYQ6pQ==]
+[06-03-2023 16:55:48] [I] Der_DennisOP: h*ck
+[06-03-2023 16:55:59] [I] Der_DennisOP has disconnected. [HmXjG7sgtK4AAAAAEYQ6pQ==] (closed)
+[06-03-2023 17:25:37] [I] Server loaded. Type 'help' for help.
+[06-03-2023 17:26:24] [I] 1 mods loaded.
+[06-03-2023 17:26:24] [E] java.lang.RuntimeException: Error loading mod MindustrAI
+	at mindustry.mod.Mods.contextRun(Mods.java:794)
+	at mindustry.mod.Mods.lambda$eachClass$30(Mods.java:782)
+	at arc.struct.Seq.each(Seq.java:182)
+	at mindustry.mod.Mods.eachClass(Mods.java:782)
+	at mindustry.server.ServerLauncher.init(ServerLauncher.java:75)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:64)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+Caused by: java.lang.NoClassDefFoundError: spark/Route
+	at mindustrai.MindustrAI.init(MindustrAI.java:24)
+	at mindustry.mod.Mods.lambda$eachClass$29(Mods.java:782)
+	at mindustry.mod.Mods.contextRun(Mods.java:792)
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: spark.Route
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:27)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:38)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 9 more
+
+[06-03-2023 17:28:01] [I] 1 mods loaded.
+[06-03-2023 17:28:01] [E] java.lang.RuntimeException: Error loading mod MindustrAI
+	at mindustry.mod.Mods.contextRun(Mods.java:794)
+	at mindustry.mod.Mods.lambda$eachClass$30(Mods.java:782)
+	at arc.struct.Seq.each(Seq.java:182)
+	at mindustry.mod.Mods.eachClass(Mods.java:782)
+	at mindustry.server.ServerLauncher.init(ServerLauncher.java:75)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:64)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+Caused by: java.lang.NoClassDefFoundError: spark/Route
+	at mindustrai.MindustrAI.init(MindustrAI.java:20)
+	at mindustry.mod.Mods.lambda$eachClass$29(Mods.java:782)
+	at mindustry.mod.Mods.contextRun(Mods.java:792)
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: spark.Route
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:27)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:38)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 9 more
+
+[06-03-2023 17:28:19] [I] 1 mods loaded.
+[06-03-2023 17:28:19] [E] java.lang.RuntimeException: Error loading mod MindustrAI
+	at mindustry.mod.Mods.contextRun(Mods.java:794)
+	at mindustry.mod.Mods.lambda$eachClass$30(Mods.java:782)
+	at arc.struct.Seq.each(Seq.java:182)
+	at mindustry.mod.Mods.eachClass(Mods.java:782)
+	at mindustry.server.ServerLauncher.init(ServerLauncher.java:75)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:64)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+Caused by: java.lang.NoClassDefFoundError: spark/Route
+	at mindustrai.MindustrAI.init(MindustrAI.java:20)
+	at mindustry.mod.Mods.lambda$eachClass$29(Mods.java:782)
+	at mindustry.mod.Mods.contextRun(Mods.java:792)
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: spark.Route
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:27)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:38)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 9 more
+
+[06-03-2023 17:28:33] [I] 1 mods loaded.
+[06-03-2023 17:28:33] [E] java.lang.RuntimeException: Error loading mod MindustrAI
+	at mindustry.mod.Mods.contextRun(Mods.java:794)
+	at mindustry.mod.Mods.lambda$eachClass$30(Mods.java:782)
+	at arc.struct.Seq.each(Seq.java:182)
+	at mindustry.mod.Mods.eachClass(Mods.java:782)
+	at mindustry.server.ServerLauncher.init(ServerLauncher.java:75)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:64)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+Caused by: java.lang.NoClassDefFoundError: spark/Route
+	at mindustrai.MindustrAI.init(MindustrAI.java:20)
+	at mindustry.mod.Mods.lambda$eachClass$29(Mods.java:782)
+	at mindustry.mod.Mods.contextRun(Mods.java:792)
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: spark.Route
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:27)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:38)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 9 more
+
+[06-03-2023 17:33:05] [I] 1 mods loaded.
+[06-03-2023 17:33:05] [I] Server loaded. Type 'help' for help.
+[06-03-2023 20:44:10] [I] 1 mods loaded.
+[06-03-2023 20:44:10] [I] Server loaded. Type 'help' for help.
+[06-03-2023 20:45:24] [I] 1 mods loaded.
+[06-03-2023 20:45:24] [I] Server loaded. Type 'help' for help.
+[06-03-2023 20:45:31] [I] Randomized next map to be Wasteland.
+[06-03-2023 20:45:31] [I] Loading map...
+[06-03-2023 20:45:31] [I] Map loaded.
+[06-03-2023 20:45:31] [I] Opened a server on port 6567.
+[06-03-2023 20:46:36] [I] 1 mods loaded.
+[06-03-2023 20:46:36] [I] Hello world!
+[06-03-2023 20:46:36] [I] Server loaded. Type 'help' for help.
+[06-03-2023 20:47:42] [I] 1 mods loaded.
+[06-03-2023 20:47:42] [I] Hello world!
+[06-03-2023 20:47:42] [E] java.lang.RuntimeException: Error loading mod MindustrAI
+	at mindustry.mod.Mods.contextRun(Mods.java:794)
+	at mindustry.mod.Mods.lambda$eachClass$30(Mods.java:782)
+	at arc.struct.Seq.each(Seq.java:182)
+	at mindustry.mod.Mods.eachClass(Mods.java:782)
+	at mindustry.server.ServerLauncher.init(ServerLauncher.java:75)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:64)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+Caused by: java.lang.NoClassDefFoundError: spark/Route
+	at mindustrai.MindustrAI.init(MindustrAI.java:30)
+	at mindustry.mod.Mods.lambda$eachClass$29(Mods.java:782)
+	at mindustry.mod.Mods.contextRun(Mods.java:792)
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: spark.Route
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:27)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:38)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 9 more
+
+[06-03-2023 21:04:50] [I] 1 mods loaded.
+[06-03-2023 21:04:50] [I] Hello world!
+[06-03-2023 21:04:50] [E] java.lang.RuntimeException: Error loading mod MindustrAI
+	at mindustry.mod.Mods.contextRun(Mods.java:794)
+	at mindustry.mod.Mods.lambda$eachClass$30(Mods.java:782)
+	at arc.struct.Seq.each(Seq.java:182)
+	at mindustry.mod.Mods.eachClass(Mods.java:782)
+	at mindustry.server.ServerLauncher.init(ServerLauncher.java:75)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:64)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+Caused by: java.lang.NoClassDefFoundError: spark/Route
+	at mindustrai.MindustrAI.init(MindustrAI.java:30)
+	at mindustry.mod.Mods.lambda$eachClass$29(Mods.java:782)
+	at mindustry.mod.Mods.contextRun(Mods.java:792)
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: spark.Route
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:27)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:38)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 9 more
+
+[06-03-2023 21:09:23] [I] 1 mods loaded.
+[06-03-2023 21:09:23] [I] Hello world!
+[06-03-2023 21:09:23] [E] java.lang.RuntimeException: Error loading mod MindustrAI
+	at mindustry.mod.Mods.contextRun(Mods.java:794)
+	at mindustry.mod.Mods.lambda$eachClass$30(Mods.java:782)
+	at arc.struct.Seq.each(Seq.java:182)
+	at mindustry.mod.Mods.eachClass(Mods.java:782)
+	at mindustry.server.ServerLauncher.init(ServerLauncher.java:75)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:64)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+Caused by: java.lang.NoClassDefFoundError: spark/Route
+	at mindustrai.MindustrAI.init(MindustrAI.java:30)
+	at mindustry.mod.Mods.lambda$eachClass$29(Mods.java:782)
+	at mindustry.mod.Mods.contextRun(Mods.java:792)
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: spark.Route
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:27)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.mod.ModClassLoader.findClass(ModClassLoader.java:38)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at mindustry.core.Platform$1.loadClass(Platform.java:37)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 9 more
+
+[06-03-2023 21:09:51] [I] 1 mods loaded.
+[06-03-2023 21:09:51] [I] Hello world!
+[06-03-2023 21:09:51] [I] Server loaded. Type 'help' for help.
+[06-03-2023 21:09:55] [I] Randomized next map to be Ancient Caldera.
+[06-03-2023 21:09:55] [I] Loading map...
+[06-03-2023 21:09:56] [I] Map loaded.
+[06-03-2023 21:09:56] [I] Opened a server on port 6567.
+[06-03-2023 21:15:02] [I] 1 mods loaded.
+[06-03-2023 21:15:02] [I] Hello world!
+[06-03-2023 21:15:02] [I] Server loaded. Type 'help' for help.
+[06-03-2023 21:17:25] [I] 1 mods loaded.
+[06-03-2023 21:17:25] [I] Hello world!
+[06-03-2023 21:17:25] [I] Server loaded. Type 'help' for help.
